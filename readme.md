@@ -32,10 +32,10 @@ Notre repo local est jumelé avec le distant. Vu que je viens de compéter ce fi
 
 **Mise à jour du repo github avec les différentes modif des fichiers et dossiers effectuées dans le dossier d'origine :**
 
-1. ```git add *``` (Pour stagger tous les dossiers et documents en plus du readme.md dans le dossier du repo)
+1. ```git add *``` (Pour stagger tous les dossiers et documents en plus du *"readme.md"* dans le dossier du repo)
 
 2. ```git commit -m "complément ..."``` (Pour avoir une trace des modif sur le repo github c'est bien de rajouter des messages pour chaque commit)
 
 3. ```git push``` (Simplement cette commande sans rajouter l'origine de la branche principale car elle a été formatée lors du premier push)
 
-Ne pas oublier la commande ```git status``` pour checker les statuts des éléments du dossier d'origine.
+*Ne pas oublier la commande ```git status``` pour checker les statuts des éléments du dossier d'origine !!*
