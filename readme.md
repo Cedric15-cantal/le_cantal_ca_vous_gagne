@@ -12,7 +12,7 @@
 3. Initialisation du dossier classique comme un repo local avec la commande : ```git init```
 Cette commande entraîne la création d'un sous répertoire ***".git"***, notre dossier *"classique"* local est devenu un repository au sens git du terme.
 
-4. Vérification du statut des commits dans le dossier .git : ```git status```
+4. Vérification du statut des stages et commits dans le dossier .git : ```git status```
 
 5. On va le versionner dans notre dossier ***".git"*** en stageant le fichier "readme.md" : ```git add readme.md```
 
@@ -38,3 +38,4 @@ Notre repo local est jumelé avec le distant. Vu que je viens de compéter ce fi
 
 3. ```git push``` (Simplement cette commande sans rajouter l'origine de la branche principale car elle a été formatée lors du premier push)
 
+Ne pas oublier la commande ```git status``` pour checker les statuts des éléments du dossier d'origine.
