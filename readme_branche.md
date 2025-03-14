@@ -17,7 +17,7 @@ git push -u origin dev
 
 5. On modifie qu'il n'y a qu'un push simple à faire :
 ```
-git commit -a -m "complément ... + commit directement"
+git commit -a -m "complément ... add + commit directement"
 
 git push
 ```
